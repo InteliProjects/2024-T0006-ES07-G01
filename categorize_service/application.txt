@@ -1,0 +1,17 @@
+Publicado no Kinesis: {'ShardId': 'shardId-000000000003', 'SequenceNumber': '49650431593898073550998512975295038418587011053917306930', 'ResponseMetadata': {'RequestId': 'f5029c1e-015c-78c1-ab86-4179b5c2ab64', 'HTTPStatusCode': 200, 'HTTPHeaders': {'x-amzn-requestid': 'f5029c1e-015c-78c1-ab86-4179b5c2ab64', 'x-amz-id-2': '2VylyrDJv8U4c1qnw+kK3u8WHxW0uKGVnQK3+XrBrJJLCKHw5qf6dQMW1GL3IzBp3M6XG+t54y9kk6umcHaHjFjVJJktUQhp', 'date': 'Mon, 01 Apr 2024 16:04:55 GMT', 'content-type': 'application/x-amz-json-1.1', 'content-length': '110', 'connection': 'keep-alive'}, 'RetryAttempts': 0}}
+{"timestamp": "2024-04-01T16:04:52.090699+00:00", "message": "Mensagem publicada no Kinesis com sucesso", "id": 1, "categoria": "tecnologia"}
+{"timestamp": "2024-04-01T16:04:52.093700+00:00", "message": "Processamento concluido para a transcricao", "id": 1, "categoria": "tecnologia"}
+{"timestamp": "2024-04-01T16:07:42.731887+00:00", "message": "Recebida transcricao", "id": 1}
+{"timestamp": "2024-04-01T16:07:42.731887+00:00", "message": "Entrando na funcao process_transcription_and_notify", "id": 1}
+127.0.0.1 - - [01/Apr/2024 13:07:42] "POST /receive_transcription HTTP/1.1" 200 -
+{"timestamp": "2024-04-01T16:07:42.741427+00:00", "message": "Entrando na funcao notify_return_response", "id": 1, "categoria": "tecnologia"}
+Publicado no Kinesis: {'ShardId': 'shardId-000000000003', 'SequenceNumber': '49650431593898073550998513332105867300385979900671033394', 'ResponseMetadata': {'RequestId': 'ee170139-212f-f318-b093-df2b64db3b93', 'HTTPStatusCode': 200, 'HTTPHeaders': {'x-amzn-requestid': 'ee170139-212f-f318-b093-df2b64db3b93', 'x-amz-id-2': 'VD9lGCHguAe6vhngc2ljxNUMcGM5Tw4fW7m1A9q+EHnrMa6UPS7jtgRl5XvrG3z3nw5xoMD+hoeVo8kfvgvvCSkf5s2RbOtC', 'date': 'Mon, 01 Apr 2024 16:07:47 GMT', 'content-type': 'application/x-amz-json-1.1', 'content-length': '110', 'connection': 'keep-alive'}, 'RetryAttempts': 0}}
+{"timestamp": "2024-04-01T16:07:43.684698+00:00", "message": "Mensagem publicada no Kinesis com sucesso", "id": 1, "categoria": "tecnologia"}
+{"timestamp": "2024-04-01T16:07:43.685706+00:00", "message": "Processamento concluido para a transcricao", "id": 1, "categoria": "tecnologia"}
+{"timestamp": "2024-04-01T16:09:08.784416+00:00", "message": "Recebida transcricao", "id": 1}
+{"timestamp": "2024-04-01T16:09:08.784416+00:00", "message": "Entrando na funcao process_transcription_and_notify", "id": 1}
+127.0.0.1 - - [01/Apr/2024 13:09:08] "POST /receive_transcription HTTP/1.1" 200 -
+{"timestamp": "2024-04-01T16:09:08.794426+00:00", "message": "Entrando na funcao notify_return_response", "id": 1, "categoria": "tecnologia"}
+Publicado no Kinesis: {'ShardId': 'shardId-000000000003', 'SequenceNumber': '49650431593898073550998513510230206488225063040928710706', 'ResponseMetadata': {'RequestId': 'e344a927-e53c-f182-bdc0-774f45e2155e', 'HTTPStatusCode': 200, 'HTTPHeaders': {'x-amzn-requestid': 'e344a927-e53c-f182-bdc0-774f45e2155e', 'x-amz-id-2': 'zqc+uMEqmZtOvYsMmbP9SyH+7c4rYsTlcff6tg0mHyjV5pZf8Db3wRWoZ0RErS2uKtWQpryWNZZX+AO+0+ejZ9ZHVaxHX4gi', 'date': 'Mon, 01 Apr 2024 16:09:13 GMT', 'content-type': 'application/x-amz-json-1.1', 'content-length': '110', 'connection': 'keep-alive'}, 'RetryAttempts': 0}}
+{"timestamp": "2024-04-01T16:09:09.688838+00:00", "message": "Mensagem publicada no Kinesis com sucesso", "id": 1, "categoria": "tecnologia"}
+{"timestamp": "2024-04-01T16:09:09.688838+00:00", "message": "Processamento concluido para a transcricao", "id": 1, "categoria": "tecnologia"}

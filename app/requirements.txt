@@ -1,0 +1,12 @@
+flasgger==0.9.7.1
+Flask==3.0.2
+ibm-watson==7.0.1
+moviepy==1.0.3
+numpy==1.26.4
+pydub==0.25.1
+python-dotenv==1.0.1
+pytest==8.0.2
+boto3==1.21.2
+ibm-cloud-sdk-core
+botocore==1.24.46
+requests==2.26.0

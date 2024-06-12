@@ -1,0 +1,378 @@
+{
+    "user_id": null,
+    "timestamp": "2024-03-12 14:12:04",
+    "processing_time": 1.2123630046844482
+}
+{
+    "user_id": null,
+    "timestamp": "2024-03-12 14:13:13",
+    "processing_time": 1.8336436748504639
+}
+{
+    "user_id": null,
+    "timestamp": "2024-03-12 14:13:51",
+    "processing_time": 0.7038249969482422
+}
+{
+    "user_id": null,
+    "timestamp": "2024-03-12 14:14:23",
+    "processing_time": 0.8673431873321533
+}
+{
+    "user_id": null,
+    "timestamp": "2024-03-12 14:17:38",
+    "processing_time": 1.8405482769012451
+}{
+    "user_id": null,
+    "timestamp": "2024-03-12 14:18:12",
+    "processing_time": 1.9156970977783203
+}
+{
+    "user_id": null,
+    "timestamp": "2024-03-12 14:19:17",
+    "processing_time": 0.7568037509918213
+}
+{
+    "user_id": null,
+    "timestamp": "2024-03-12 14:20:40",
+    "processing_time": 0.8562729358673096
+}
+{
+    "user_id": null,
+    "timestamp": "2024-03-12 14:24:00",
+    "processing_time": 0.7434418201446533
+}
+{
+    "user_id": null,
+    "timestamp": "2024-03-12 14:24:14",
+    "processing_time": 0.8414018154144287
+}
+{
+    "user_id": null,
+    "timestamp": "2024-03-12 14:24:48",
+    "processing_time": 0.8688750267028809
+}
+{
+    "user_id": null,
+    "timestamp": "2024-03-12 14:25:08",
+    "processing_time": 0.8229501247406006
+}{
+    "user_id": null,
+    "timestamp": "2024-03-12 14:39:16",
+    "processing_time": 1.4406991004943848
+}
+{
+    "user_id": null,
+    "timestamp": "2024-03-12 14:39:56",
+    "processing_time": 1.1349639892578125
+}
+{
+    "user_id": null,
+    "timestamp": "2024-03-12 14:43:42",
+    "processing_time": 0.7927777767181396
+}
+{
+    "user_id": null,
+    "timestamp": "2024-03-12 14:50:40",
+    "processing_time": 0.9837911128997803
+}
+{
+    "user_id": null,
+    "timestamp": "2024-03-12 14:51:13",
+    "processing_time": 0.8403890132904053
+}
+{
+    "user_id": null,
+    "timestamp": "2024-03-12 14:51:27",
+    "processing_time": 0.8456130027770996
+}
+{
+    "user_id": null,
+    "timestamp": "2024-03-12 14:51:48",
+    "processing_time": 0.7396731376647949
+}
+{
+    "user_id": null,
+    "timestamp": "2024-03-12 14:52:43",
+    "processing_time": 1.086097002029419
+}
+{
+    "user_id": null,
+    "timestamp": "2024-03-12 14:53:27",
+    "processing_time": 0.8783390522003174
+}
+{
+    "user_id": "1",
+    "timestamp": "2024-03-12 14:54:01",
+    "processing_time": 0.749025821685791
+}{
+    "user_id": null,
+    "timestamp": "2024-03-12 14:57:10",
+    "processing_time": 0.7045199871063232
+}
+{
+    "user_id": null,
+    "timestamp": "2024-03-12 14:57:25",
+    "processing_time": 15.097200155258179
+}
+{
+    "user_id": null,
+    "service_name": 0.7283263206481934,
+    "timestamp": "/upload_video",
+    "processing_time": "2024-03-12 14:59:56"
+}
+{
+    "user_id": null,
+    "service_name": 13.400962114334106,
+    "timestamp": "/transcribe_audio",
+    "processing_time": "2024-03-12 15:00:10"
+}{
+    "user_id": "/upload_video",
+    "service_name": null,
+    "timestamp": "2024-03-12 15:01:06",
+    "processing_time": 0.7208309173583984
+}
+{
+    "user_id": "/transcribe_audio",
+    "service_name": null,
+    "timestamp": "2024-03-12 15:01:25",
+    "processing_time": 19.323365688323975
+}
+{
+    "user_id": null,
+    "service_name": "/upload_video",
+    "timestamp": "2024-03-12 15:01:58",
+    "processing_time": 0.6902141571044922
+}
+{
+    "user_id": null,
+    "service_name": "/transcribe_audio",
+    "timestamp": "2024-03-12 15:02:12",
+    "processing_time": 14.11447811126709
+}
+{
+    "user_id": "1",
+    "service_name": "/upload_video",
+    "timestamp": "2024-03-12 15:03:59",
+    "processing_time": 0.7197933197021484
+}
+{
+    "user_id": null,
+    "service_name": "/transcribe_audio",
+    "timestamp": "2024-03-12 15:04:12",
+    "processing_time": 13.75649118423462
+}
+{
+    "user_id": "12345",
+    "service_name": "/upload_video",
+    "timestamp": "2024-03-12 15:04:28",
+    "processing_time": 0.7078709602355957
+}
+{
+    "user_id": "12345",
+    "service_name": "/transcribe_audio",
+    "timestamp": "2024-03-12 15:04:45",
+    "processing_time": 16.258071899414062
+}
+{
+    "user_id": "12345",
+    "service_name": "/upload_video",
+    "timestamp": "2024-03-12 15:06:24",
+    "processing_time": 0.7019350528717041
+}
+{
+    "user_id": "12345",
+    "service_name": "/transcribe_audio",
+    "timestamp": "2024-03-12 15:06:24",
+    "processing_time": 19.53671884536743
+}
+{
+    "user_id": "12345",
+    "service_name": "/upload_video",
+    "timestamp": "2024-03-12 15:07:59",
+    "processing_time": 0.7133581638336182
+}
+{
+    "user_id": "12345",
+    "service_name": "/transcribe_audio",
+    "timestamp": "2024-03-12 15:08:00",
+    "processing_time": 17.91706109046936
+}
+{
+    "user_id": "12345",
+    "service_name": "/upload_video",
+    "timestamp": "2024-03-12 15:08:55",
+    "processing_time": 0.6984379291534424
+}
+{
+    "user_id": "12345",
+    "service_name": "/transcribe_audio",
+    "timestamp": "2024-03-12 15:08:55",
+    "processing_time": 10.122878074645996
+}
+{
+    "user_id": "1",
+    "service_name": "/upload_video",
+    "timestamp": "2024-03-12 15:09:22",
+    "processing_time": 0.7055439949035645
+}
+{
+    "user_id": "1",
+    "service_name": "/transcribe_audio",
+    "timestamp": "2024-03-12 15:09:23",
+    "processing_time": 14.709584712982178
+}{
+    "user_id": "1",
+    "service_name": "/upload_video",
+    "timestamp": "2024-03-12 15:11:35",
+    "processing_time": 0.9657881259918213
+}
+{
+    "user_id": "1",
+    "service_name": "/upload_video",
+    "timestamp": "2024-03-12 15:12:54",
+    "processing_time": 0.8395969867706299
+}
+{
+    "user_id": "1",
+    "service_name": "/upload_video",
+    "timestamp": "2024-03-12 15:13:35",
+    "processing_time": 0.6843299865722656
+}
+{
+    "user_id": "1",
+    "service_name": "/transcribe_audio",
+    "timestamp": "2024-03-12 15:13:36",
+    "processing_time": 18.023787021636963
+}
+{
+    "user_id": null,
+    "service_name": "/transcribe_audio",
+    "timestamp": "2024-03-12 15:14:54",
+    "processing_time": 20.553128004074097
+}{
+    "user_id": "1",
+    "service_name": "/transcribe_audio",
+    "timestamp": "2024-03-14 11:45:04",
+    "processing_time": 15.522475957870483
+}
+{
+    "user_id": null,
+    "service_name": "/transcribe_audio",
+    "timestamp": "2024-03-14 11:53:37",
+    "processing_time": 14.887185096740723
+}
+{
+    "user_id": null,
+    "service_name": "/transcribe_audio",
+    "timestamp": "2024-03-14 12:11:04",
+    "processing_time": 14.352410316467285
+}
+{
+    "user_id": null,
+    "service_name": "/transcribe_audio",
+    "timestamp": "2024-03-14 12:17:04",
+    "processing_time": 17.68880581855774
+}
+{
+    "user_id": "1",
+    "service_name": "/upload_video",
+    "timestamp": "2024-03-14 12:44:11",
+    "processing_time": 3.319136142730713
+}
+{
+    "user_id": "1",
+    "service_name": "/upload_video",
+    "timestamp": "2024-03-14 14:15:11",
+    "processing_time": 4.544026136398315
+}
+{
+    "user_id": "1",
+    "service_name": "/upload_video",
+    "timestamp": "2024-03-14 14:15:25",
+    "processing_time": 8.413068056106567
+}
+{
+    "user_id": "1",
+    "service_name": "/upload_video",
+    "timestamp": "2024-03-14 14:28:08",
+    "processing_time": 2.818166971206665
+}
+{
+    "user_id": null,
+    "service_name": "/transcribe_audio",
+    "timestamp": "2024-03-14 14:33:31",
+    "processing_time": 20.209285020828247
+}
+{
+    "user_id": "1",
+    "service_name": "/transcribe_audio",
+    "timestamp": "2024-03-14 15:00:44",
+    "processing_time": 24.959036827087402
+}
+{
+    "user_id": "1",
+    "service_name": "/upload_video",
+    "timestamp": "2024-03-14 15:03:21",
+    "processing_time": 9.061197996139526
+}
+{
+    "user_id": "1",
+    "service_name": "/transcribe_audio",
+    "timestamp": "2024-03-14 15:04:09",
+    "processing_time": 11.600365161895752
+}
+{
+    "user_id": null,
+    "service_name": "/upload_video",
+    "timestamp": "2024-03-14 15:04:27",
+    "processing_time": 9.156972885131836
+}
+{
+    "user_id": "1",
+    "service_name": "/upload_video",
+    "timestamp": "2024-03-14 15:24:30",
+    "processing_time": 2.9587020874023438
+}
+{
+    "user_id": "1",
+    "service_name": "/upload_video",
+    "timestamp": "2024-03-14 17:03:36",
+    "processing_time": 7.485878944396973
+}
+{
+    "user_id": "1",
+    "service_name": "/upload_video",
+    "timestamp": "2024-03-15 12:20:44",
+    "processing_time": 8.874029159545898
+}
+{
+    "user_id": "1",
+    "service_name": "/upload_video",
+    "timestamp": "2024-03-15 12:23:15",
+    "processing_time": 8.447630882263184
+}
+{
+    "user_id": "1",
+    "service_name": "/transcribe_audio",
+    "timestamp": "2024-03-15 12:23:24",
+    "processing_time": 24.181779861450195
+}
+{
+    "user_id": "1",
+    "service_name": "/upload_video",
+    "timestamp": "2024-03-15 12:24:25",
+    "processing_time": 8.224734783172607
+}
+{
+    "user_id": "1",
+    "service_name": "/transcribe_audio",
+    "timestamp": "2024-03-15 12:24:33",
+    "processing_time": 17.309843063354492
+}{"user_id": "1", "service_name": "/upload_video", "timestamp": "2024-03-15 17:42:48", "processing_time": 3.008592128753662}
+{"user_id": "1", "service_name": "/upload_video", "timestamp": "2024-03-15 17:43:45", "processing_time": 4.246756076812744}
+{"user_id": "1", "service_name": "/transcribe_audio", "timestamp": "2024-03-15 17:43:49", "processing_time": 20.28489899635315}
+{"user_id": "1", "service_name": "/upload_video", "timestamp": "2024-03-15 17:49:39", "processing_time": 8.724786043167114}
+{"user_id": "1", "service_name": "/transcribe_audio", "timestamp": "2024-03-15 17:49:48", "processing_time": 16.700464010238647}
+{"user_id": "1", "service_name": "/upload_video", "timestamp": "2024-03-15 17:51:15", "processing_time": 3.073613166809082}
+{"user_id": "1", "service_name": "/transcribe_audio", "timestamp": "2024-03-15 17:51:18", "processing_time": 16.156448125839233}
