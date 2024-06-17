@@ -1,9 +1,3 @@
-# Artefatos
-
-Coloque aqui a localização dos artefatos entregues em cada sprint (o link para o artefato), ou então preencha diretamente neste markdown.
-
-Veja as instruções e maiores detalhes sobre os artefatos na Adalove.
-
 ## Visão Geral do Projeto
 
 Este projeto, conduzido em parceria com a Samba Mobile Multimídia S/A, visa ajuda-los no gerenciamento de vídeos utilizando inteligência artificial. Reconhecendo a necessidade de entender e classificar vídeos em plataformas de streaming, o projeto propõe o desenvolvimento de uma solução inovadora de IA. Esta solução será capaz de analisar detalhadamente o conteúdo dos vídeos, criar tags e categoriza-los e possivelmente no futuro cruzar essa informação com dados analíticos de consumo, com o objetivo de extrair insights significativos sobre engajamento. Tais insights serão fundamentais para orientar nossos clientes na otimização de conteúdo, visando maximizar a retenção de usuários e o engajamento. 
