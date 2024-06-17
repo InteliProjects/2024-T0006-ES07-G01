@@ -1,5 +1,3 @@
-# template-es7
-
 # Inteli - Instituto de Tecnologia e Liderança 
 
 <p align="center">
