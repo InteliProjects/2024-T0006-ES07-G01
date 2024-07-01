@@ -8,13 +8,16 @@
 
 # Automação com Reconhecimento de Voz
 
-## Grupo X
+## Grupo Exaltasamba
 
 ## 👨‍🎓 Integrantes: 
-- <a href="https://www.linkedin.com/in/">Integrante 1</a>
-- <a href="https://www.linkedin.com/in/">Integrante 2</a>
-- <a href="https://www.linkedin.com/in/">Integrante 3</a>
-- <a href="https://www.linkedin.com/in/">Integrante 4</a>
+- <a href="https://www.linkedin.com/in/">Bruno Leão</a>
+- <a href="https://www.linkedin.com/in/">Felipe Moura</a>
+- <a href="https://www.linkedin.com/in/">ISABELA Rocha</a>
+- <a href="https://www.linkedin.com/in/">Mauricio Felicissimo</a>
+- <a href="https://www.linkedin.com/in/">Renan Ribeiro</a>
+- <a href="https://www.linkedin.com/in/">Yuri Freitas</a>
+
 
 (...)
 
@@ -33,7 +36,7 @@
 
 ## 📜 Descrição
 
-Adicionar descrição do projeto conforme o TAPI.
+Nossa solução será um Microsaas a ser usado por empresas que atuam no segmento de Serviços de Hospedagem e Distribuição de Vídeo, esse serviço será usado para criar tags, palavras chaves e categorizar vídeos dentro da sua plataforma. Visando solucionar as dores dos seus clientes, que possuem muitos vídeos em sua conta e não conseguem localizar e fazer uma boa gestão das suas publicações.
 
 ## 📁 Estrutura de pastas
 
